@@ -1,4 +1,4 @@
 ---
-title: hom
+title: home
 
 ---
