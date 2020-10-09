@@ -5,7 +5,7 @@ emergency_contact = ""
 practices = []
 sports = []
 team = ""
-title = "DKSDJ"
+title = "Davide"
 year = ""
 
 +++
